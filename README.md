@@ -1,4 +1,4 @@
-# AI-competition-for-predicting-the-water-level-of-the-Han-River-according-to-the-flood-safety-operati
+# AI-competition-for-predicting-the-water-level-of-the-Han-River-according-to-the-flood-safety-operation
 In 10 minutes, to predict the water level of the four bridges, Cheongdam Bridge, Submersible Bridge, Hangang Bridge, and Haengju Bridge, various derivative variables are generated, experimented, and model advanced
 
 *운영체제 및 개발환경
